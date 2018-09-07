@@ -7,12 +7,12 @@ import android.support.design.widget.BottomNavigationView;
 import android.util.Log;
 import android.view.MenuItem;
 
-import com.example.siratimmustaquim.sq_instaapp.HomeActivity;
-import com.example.siratimmustaquim.sq_instaapp.NotificationActivity;
-import com.example.siratimmustaquim.sq_instaapp.ProfileActivity;
+import com.example.siratimmustaquim.sq_instaapp.Home.HomeActivity;
+import com.example.siratimmustaquim.sq_instaapp.Notifications.NotificationActivity;
+import com.example.siratimmustaquim.sq_instaapp.Profile.ProfileActivity;
 import com.example.siratimmustaquim.sq_instaapp.R;
-import com.example.siratimmustaquim.sq_instaapp.SearchActivity;
-import com.example.siratimmustaquim.sq_instaapp.UploadActivity;
+import com.example.siratimmustaquim.sq_instaapp.Search.SearchActivity;
+import com.example.siratimmustaquim.sq_instaapp.Upload.UploadActivity;
 import com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx;
 
 public class BottomNavigationViewHelper {
