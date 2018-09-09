@@ -31,4 +31,7 @@ dependencies {
     // bottom navigation view ex Library
     implementation 'com.github.ittianyu:BottomNavigationViewEx:1.2.4'
 //    implementation "com.android.support:design:28"
+
+    //circle profile picture viewer library, CircleImageView
+    implementation 'de.hdodenhof:circleimageview:2.2.0'
 }

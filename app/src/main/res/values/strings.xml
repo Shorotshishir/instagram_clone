@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">SQ_InstaApp</string>
     <string name="user_name">User.Name</string>
+    <string name="number_of_posts">123</string>
+    <string name="number_of_followers">231</string>
+    <string name="number_of_followings">312</string>
+    <string name="posts">posts</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="edit_your_profile">Edit Your Profile</string>
 </resources>
